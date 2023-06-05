@@ -20,8 +20,8 @@ Go to `File >> Build Settings...` set up Scene in build and platfrom.
 ## Version 1.0 (Quad Test)
 
 Complete all the relevant settings for getting started with augmented reality development, and then build a cube in the air.
-![The Cube](../image and screen recording/quad.jpeg)
-![](https://hackmd.io/_uploads/S1_KezoIn.jpg)
+![The Cube](image and screen recording/quad.jpeg)
+
 
 
 ## Version 2.0 (Cat Model)
