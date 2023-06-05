@@ -53,4 +53,18 @@ Version 2.0: [ARTestCat](https://drive.google.com/drive/folders/1q4oQAH8CHcq67hd
 Version 3.0: [Woman and Cat](https://drive.google.com/drive/folders/1foAl5ttUMju5RamSq1TbMVEYXtEvV_My?usp=sharing)
 
 ## Testing ##
+
+I put screenshots and screen recordings of each version of the test in the file.
+
+
 ## Reference ##
+
+[AR Foundation & Unity 02: Setup for iOS](https://youtu.be/eu_eG0eTFlA)
+
+[Beginners guide to UNITY AR Foundation (ARKit & ARCore) - Build your first AR app from scratch!](https://youtu.be/KqzlGApWPEA)
+
+[Unity AR Foundation Tutorial - Plane Detection](https://youtu.be/uWWiYfPTUtU)
+
+[Unity AR Foundation Tutorial - Tap to Place Objects in AR](https://youtu.be/xguiSueY1Lw)
+
+[Use touch to scale, rotate and drag AR objects | UNITY AR Foundation (ARKit & ARCore) | LeanTween](https://youtu.be/jgQVUttENTI)
