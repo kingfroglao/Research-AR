@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{DB0A2A8B-F6E0-5355-7990-3B0D23AA4D35}|">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="87f7073f-2048-4871-aade-adcc3cbe9702" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.xr.arfoundation@5.0.6/Runtime/ARFoundation/ARPlaneMeshVisualizer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/AR_Placement.cs" />
+      <File FileName="Library/PackageCache/com.unity.learn.iet-framework@3.1.3/Editor/Criteria/Criterion.cs" />
+      <File FileName="Assets/Scripts/ScaleAndRotateSlider.cs" />
+      <File FileName="Assets/Scripts/WomanMovement.cs" />
+      <File FileName="Assets/Scripts/ARTapToPlaceObject.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@5.0.6/Runtime/ARFoundation/ARPlaneManager.cs" />
+      <File FileName="Library/PackageCache/com.unity.xr.arfoundation@5.0.6/Runtime/ARFoundation/ARPlaneMeshVisualizer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
