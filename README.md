@@ -30,7 +30,7 @@ Cat Model: Download from Unity Store.
 
 Woman Model: Provided by model team.
 
-## Build and Description ##
+## Build Description and Testing##
 
 ### Version 1.0 (Quad Test)
 
@@ -42,7 +42,7 @@ Here is the screen shot of the version 1.0:
 
 GIF display:
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/8dc8f7d8-9c7d-4edd-8118-90f656c9015b"/>
+<img width="128" height="276" src="image and screen recording/quad.GIF"/>
 
 
 
@@ -53,11 +53,11 @@ For the purpose of this experiment, I downloaded a cat model from the Unity Stor
 
 Screen Shot Display：
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/b9ab3229-0bef-481f-a09c-c4b8f4cbe1cd"/>
+<img width="128" height="276" src="image and screen recording/cat.PNG"/>
 
 GIF Display：
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/58054002-9b5e-4783-babb-74a4e9e87337"/>
+<img width="128" height="276" src="image and screen recording/cat.GIF"/>
 
 ### Version 3.0 (Import Woman Model and Cat model)
 
@@ -65,40 +65,27 @@ In the third test, the female character provided by the model group was imported
 
 First, a target will show up. User can use the target to identify the plane and tap the screen to place the model：
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/1b3889e9-dc87-46ad-b9d3-dc0006245c16"/>
+<img width="128" height="276" src="image and screen recording/target.PNG"/>
 
 
 User can use first slider to rotate the character:
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/78a78d32-8133-4544-884e-b09bbf2703ec"/>
+<img width="128" height="276" src="image and screen recording/rotation.GIF"/>
 
 
 User can use second slider to change the scale of the character:
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/5443815e-bea6-4325-a028-f5da8b51ac9e"/>
+<img width="128" height="276" src="image and screen recording/scale.GIF"/>
 
 
 User can freely move the character: 
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/615510b9-9eab-4008-a8c1-a47cd5f1a463"/>
+<img width="128" height="276" src="image and screen recording/move.GIF"/>
 
 
 Wave animation was added:
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/89a3e4cc-1efb-464a-9bc9-fb280702874f"/>
-
-
-## Package
-Because the file is too large, it cannot be uploaded to github (I didn't understand GitHub LFS) and is again available as a Google Doc share.
-
-Version 2.0: [ARTestCat](https://drive.google.com/drive/folders/1q4oQAH8CHcq67hdLs_2eFwmYbzRI20vf?usp=drive_link)
-
-Version 3.0: [Woman and Cat](https://drive.google.com/drive/folders/1foAl5ttUMju5RamSq1TbMVEYXtEvV_My?usp=sharing)
-
-## Testing ##
-
-
-
+<img width="128" height="276" src="image and screen recording/wave.GIF"/>
 
 ## Reference ##
 
