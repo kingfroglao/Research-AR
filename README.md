@@ -38,7 +38,7 @@ Proceed by configuring all necessary settings for initiating the development of 
 
 Here is the screen shot of the version 1.0:
 
-<img width="128" height="276" src="https://github.com/kingfroglao/Research-AR/assets/97926748/a6ee8dd6-65bb-4d92-8730-20d351a1b3dd"/>
+<img width="128" height="276" src="image and screen recording/quad.jpeg"/>
 
 GIF display:
 
