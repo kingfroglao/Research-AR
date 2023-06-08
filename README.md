@@ -119,6 +119,8 @@ Then, waiting for the Mac to launch iPhone.
 Otherwise, follow this [video](https://youtu.be/eu_eG0eTFlA) to learn the entire process (from unity setting up to testing on iPhone).
 
 
+## Following Work ##
+
 ## Reference ##
 
 [AR Foundation & Unity 02: Setup for iOS](https://youtu.be/eu_eG0eTFlA)
