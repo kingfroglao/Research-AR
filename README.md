@@ -32,7 +32,11 @@ Cat Model: Download from Unity Store.
 
 Woman Model: Provided by the model team.
 
+### Meeting Memo
+
+
 ## Build Description ##
+Testing Environment: The living room of my apartment.
 
 ### Version 1.0 (Quad Test)
 
@@ -120,6 +124,17 @@ Otherwise, follow this [video](https://youtu.be/eu_eG0eTFlA) to learn the entire
 
 
 ## Following Work ##
+
+For future research and enhancement, we require a broader range of models to generate diverse research findings and data for the project. We plan to incorporate several new functionalities in our subsequent work.
+
+- Switch to different character models: Switching to different character models is essential for game development, animation, or any kind of simulation work. Different character models can provide a variety of appearances and abilities, making a game or simulation more engaging and realistic.
+
+    Here is a reference [video](https://youtu.be/0SuzwJfqgBY).
+
+- Controller for the model: We suppose to control model's movement by using joystick. In this way, user can keep track model's state and also it will be much convenience to change the position of the model. Under this implement, we will import `Walking` animation of the model.  Here is a reference [video](https://youtu.be/ETpVYQBWL38).
+(This part is what I did, but I haven't been successful yet.)
+
+The charactor model resource will provide by _Virtual-Model-Team_.   
 
 ## Reference ##
 
