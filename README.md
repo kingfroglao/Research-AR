@@ -32,8 +32,6 @@ Cat Model: Download from Unity Store.
 
 Woman Model: Provided by the model team.
 
-### Meeting Memo
-
 
 ## Build Description ##
 Testing Environment: The living room of my apartment.
