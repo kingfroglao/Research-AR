@@ -37,8 +37,13 @@ Woman Model: Provided by the model team.
 Testing Environment: The living room of my apartment.
 
 ### Version 1.0 (Quad Test)
+#### Completion Date: 5/15
+#### Goal: 
+- Grasp the fundamentals of augmented reality (AR)-related operations within Unity.
+- Acquire knowledge on utilizing Xcode to interface with an iPhone in developer mode.
+- Learn the techniques to modify prefabs within Unity.
 
-Proceed by configuring all necessary settings for initiating the development of augmented reality. Once set up, proceed to construct a virtual cube suspended in space. Then, engage with the interface to manipulate and position the cube according to the desired specifications. This initial model is a fundamental step in understanding the dynamics of creating and manipulating objects in an augmented reality environment.
+Begin by configuring all necessary settings in Unity to initiate augmented reality development. This involves steps such as importing the necessary packages and setting up the build configurations. Once the initial setup is complete, proceed to create an `AR Camera` along with the relevant scripts. After completing the basic setup, you can proceed to construct a virtual cube in the virtual space. Utilize the interface to manipulate and position the cube as per the desired specifications. This introductory model marks a fundamental step towards understanding the dynamics of creating and manipulating objects within augmented reality environments.
 
 Here is the screenshot of version 1.0:
 
@@ -53,7 +58,14 @@ GIF display:
 
 ### Version 2.0 (Cat Model)
 
-We will download a cat model from the Unity Store for this experiment. Subsequently, we developed a script capable of detecting planes with white prefabs and red edges, irrespective of their orientation - horizontal or vertical. The cat model is prompted to appear upon the user's interaction with the plane via a click. Simultaneously, the script allows users to modify the cat's position by enabling movement.
+#### Completion Date: 5/22
+#### Goal: 
+- Learn how to import and implement 3D models from the Unity Store into your projects.
+- Develop and understand scripts that can detect planes with specific characteristics
+- Create a user interaction system where the model appears when the user interacts with the detected plane.
+- Enables users to modify the position of models in virtual space, further enhancing user interactivity in AR environments.
+
+A cat model downloaded from the Unity Store was used for this build. We learned to develop a script that is able to detect planes with white prefabs and red edges no matter their orientation is horizontal or vertical. When the user interacts with the screen by tapping, the cat model is prompted to appear. At the same time, the script allows the user to modify the cat's position by enabling movement.
 
 Screen Shot Display：
 
@@ -64,6 +76,12 @@ GIF Display：
 <img width="128" height="276" src="image and screen recording/cat.GIF"/>
 
 ### Version 3.0 (Import Woman Model and Cat model)
+#### Completion Date: 6/3
+#### Goal: 
+- Examine how users interact with the app, especially how they animate characters and use sliders to adjust their rotation and scale.
+- Evaluate how easily the user can manipulate the on-screen position of the character to their liking.
+- Learn about the overall user experience, including the convenience and intuitiveness of controls, and how to enhance these factors.
+- Determines how the app responds when the screen is tapped.
 
 In the third test, the female character provided by the model group was imported. Upon tapping the screen for the first time, the character materializes. A slider is conveniently located at the bottom of the screen, allowing adjustment of the character's rotation and scale. Furthermore, the character's position on the screen can be seamlessly adjusted to suit the user's preference.
 
